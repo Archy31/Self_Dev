@@ -1,0 +1,10 @@
+{
+    "markdown.preview.fontSize": 26,
+    "chat.editor.fontSize": 30,
+    "terminal.integrated.fontSize": 18,
+    "scm.inputFontSize": 16,
+    "debug.console.fontSize": 18,
+    "editor.fontSize": 18,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.mouseWheelZoom": true
+}
